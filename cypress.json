@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://www.skyscanner.com.au/",
+  "video": true,
+  "screenshotsFolder": "cypress/screenshots",
+  "testFiles": "skyscanner/*"
+}

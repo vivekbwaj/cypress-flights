@@ -1,0 +1,15 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open",
+    "test": "npx cypress run "
+  },
+  "author": "vivek bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.5.0"
+  }
+}
